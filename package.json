@@ -1,0 +1,50 @@
+{
+  "name": "macaca-bot",
+  "version": "0.1.0",
+  "description": "Github bot to resolve the issues and PR of Macaca",
+  "keywords": [
+    "macaca",
+    "bot"
+  ],
+  "bin": {
+    "macaca-bot": "./bin/macaca-bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macacajs/macaca-bot.git"
+  },
+  "dependencies": {
+    "@octokit/rest": "^15.4.1",
+    "cryptiles": "^4.1.1",
+    "google-translate-api": "^2.3.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "xutil": "^1.0.11"
+  },
+  "devDependencies": {
+    "co-mocha": "*",
+    "eslint": "^4.18.2",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-mocha": "^4.12.1",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "git-contributor": "*",
+    "mocha": "*",
+    "nyc": "*",
+    "pre-commit": "*"
+  },
+  "scripts": {
+    "ci": "npm run lint && npm run test",
+    "test": "nyc --reporter=lcov --reporter=text mocha",
+    "lint": "eslint . --fix",
+    "contributor": "git-contributor"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "license": "MIT"
+}
