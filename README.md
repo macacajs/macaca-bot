@@ -46,6 +46,8 @@ Bot: https://github.com/macaca-bot
 $ GITHUB_TOKEN=xxx SECRET_TOKEN=xxx npm run start
 ```
 
+default port was point to 9500.
+
 ## Features
 
 - Create a translated comment on newly opened issues
