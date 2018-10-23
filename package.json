@@ -4,8 +4,12 @@
   "description": "github Github bot to resolve the issues and PR of Macaca",
   "private": true,
   "dependencies": {
+    "@octokit/rest": "^15.4.1",
+    "cryptiles": "^4.1.1",
     "egg": "^2.2.1",
-    "egg-scripts": "^2.5.0"
+    "egg-scripts": "^2.5.0",
+    "google-translate-api": "^2.3.0",
+    "xutil": "^1.0.11"
   },
   "devDependencies": {
     "autod": "^3.0.1",
@@ -15,13 +19,14 @@
     "egg-mock": "^3.14.0",
     "eslint": "^4.11.0",
     "eslint-config-egg": "^6.0.0",
+    "git-contributor": "^1.0.8",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
     "node": ">=8.9.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-macaca-bot",
+    "start": "egg-scripts start --port=9500 --daemon --title=egg-server-macaca-bot",
     "stop": "egg-scripts stop --title=egg-server-macaca-bot",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
@@ -30,14 +35,15 @@
     "cov": "egg-bin cov",
     "lint": "eslint .",
     "ci": "npm run lint && npm run cov",
-    "autod": "autod"
+    "autod": "autod",
+    "contributor": "git-contributor"
   },
   "ci": {
     "version": "8"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:macacajs/macaca-bot.git"
   },
   "author": "xudafeng",
   "license": "MIT"
