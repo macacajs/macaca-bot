@@ -26,7 +26,7 @@
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 
-> Github bot to resolve the issues and PR of Macaca
+> Github bot to resolve the issues and PR of your repository.
 
 Bot: https://github.com/macaca-bot
 

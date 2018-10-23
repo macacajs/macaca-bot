@@ -1,7 +1,7 @@
 {
   "name": "macaca-bot",
   "version": "1.0.0",
-  "description": "github Github bot to resolve the issues and PR of Macaca",
+  "description": "github Github bot to resolve the issues and PR of your repository",
   "private": true,
   "dependencies": {
     "@octokit/rest": "^15.4.1",
