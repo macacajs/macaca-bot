@@ -28,7 +28,7 @@
   "scripts": {
     "start": "egg-scripts start --port=9500 --daemon --title=egg-server-macaca-bot",
     "stop": "egg-scripts stop --title=egg-server-macaca-bot",
-    "dev": "egg-bin dev",
+    "dev": "egg-bin dev --port=9500",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",
     "test-local": "egg-bin test",
