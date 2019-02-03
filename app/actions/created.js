@@ -25,6 +25,8 @@ module.exports = async payload => {
     to: 'en',
   })).text;
 
+  body = _.transformBody(body);
+
   const res = [
     `This is the translated issue comment: @${user.login}`,
     '\n',
