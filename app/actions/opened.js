@@ -29,6 +29,8 @@ module.exports = async payload => {
     })).text;
   }
 
+  body = _.transformBody(body);
+
   const res = [
     'This is the translated issue:',
     '\n',
