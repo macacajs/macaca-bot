@@ -40,6 +40,18 @@ Bot: https://github.com/macaca-bot
   </a>
 </p>
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>
+| :---: | :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Mon Feb 04 2019 09:15:19 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
+
 ## Setup
 
 ```bash
@@ -57,18 +69,6 @@ default port was point to 9500.
 
 - label
 - move issues to `alibaba/macaca`
-
-<!-- GITCONTRIBUTOR_START -->
-
-## Contributors
-
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
-| :---: |
-
-
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Thu Sep 27 2018 23:12:55 GMT+0800`.
-
-<!-- GITCONTRIBUTOR_END -->
 
 ## License
 
