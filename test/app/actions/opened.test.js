@@ -6,6 +6,6 @@ const opened = require('../../../app/actions/opened');
 
 describe('test', () => {
   it('should be ok', () => {
-    assert.ok(opened);
+    assert(opened);
   });
 });

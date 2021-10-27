@@ -1,13 +1,8 @@
-logs/
-npm-debug.log
-yarn-error.log
 node_modules/
 package-lock.json
 yarn.lock
 coverage/
-.idea/
-run/
 .nyc_output/
-.DS_Store
+.idea/
 *.sw*
 *.un~

@@ -17,13 +17,13 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![node version][node-image]][node-url]
 
-[npm-image]: https://img.shields.io/npm/v/macaca-bot.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/macaca-bot.svg
 [npm-url]: https://npmjs.org/package/macaca-bot
-[travis-image]: https://img.shields.io/travis/macacajs/macaca-bot.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/macacajs/macaca-bot.svg
 [travis-url]: https://travis-ci.org/macacajs/macaca-bot
-[coveralls-image]: https://img.shields.io/coveralls/macacajs/macaca-bot.svg?style=flat-square
+[coveralls-image]: https://img.shields.io/coveralls/macacajs/macaca-bot.svg
 [coveralls-url]: https://coveralls.io/r/macacajs/macaca-bot?branch=master
-[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
+[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
 [node-url]: http://nodejs.org/download/
 
 > Github bot to resolve the issues and PR of your repository.
@@ -44,11 +44,11 @@ Bot: https://github.com/macaca-bot
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>
+|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|
 | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Mon Feb 04 2019 09:15:19 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Wed Oct 27 2021 21:11:50 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
