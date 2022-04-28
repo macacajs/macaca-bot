@@ -2,7 +2,7 @@
   <a href="//macacajs.github.io">
     <img
       alt="Macaca"
-      src="https://macacajs.github.io/macaca-logo/svg/monkey.svg"
+      src="https://macacajs.github.io/logo/macaca.svg"
       width="200"
     />
   </a>
@@ -14,15 +14,15 @@
 
 [![NPM version][npm-image]][npm-url]
 [![build status][CI-image]][CI-url]
-[![Test coverage][coveralls-image]][coveralls-url]
+[![Test coverage][codecov-image]][codecov-url]
 [![node version][node-image]][node-url]
 
 [npm-image]: https://img.shields.io/npm/v/macaca-bot.svg
 [npm-url]: https://npmjs.org/package/macaca-bot
 [CI-image]: https://github.com/macacajs/macaca-bot/actions/workflows/ci.yml/badge.svg
 [CI-url]: https://github.com/macacajs/macaca-bot/actions/workflows/ci.yml
-[coveralls-image]: https://img.shields.io/coveralls/macacajs/macaca-bot.svg
-[coveralls-url]: https://coveralls.io/r/macacajs/macaca-bot?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/macacajs/macaca-bot.svg?logo=codecov
+[codecov-url]: https://app.codecov.io/gh/macacajs/macaca-bot
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
 [node-url]: http://nodejs.org/download/
 
@@ -44,11 +44,11 @@ Bot: https://github.com/macaca-bot
 
 ## Contributors
 
-|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|
-| :---: | :---: |
+|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|[<img src="https://avatars.githubusercontent.com/u/52845048?v=4" width="100px;"/><br/><sub><b>snapre</b></sub>](https://github.com/snapre)<br/>|
+| :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Wed Oct 27 2021 21:11:50 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Apr 28 2022 14:35:56 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
