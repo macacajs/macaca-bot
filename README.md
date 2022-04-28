@@ -13,14 +13,14 @@
 # macaca-bot
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
+[![build status][CI-image]][CI-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![node version][node-image]][node-url]
 
 [npm-image]: https://img.shields.io/npm/v/macaca-bot.svg
 [npm-url]: https://npmjs.org/package/macaca-bot
-[travis-image]: https://img.shields.io/travis/macacajs/macaca-bot.svg
-[travis-url]: https://travis-ci.org/macacajs/macaca-bot
+[CI-image]: https://github.com/macacajs/macaca-bot/actions/workflows/ci.yml/badge.svg
+[CI-url]: https://github.com/macacajs/macaca-bot/actions/workflows/ci.yml
 [coveralls-image]: https://img.shields.io/coveralls/macacajs/macaca-bot.svg
 [coveralls-url]: https://coveralls.io/r/macacajs/macaca-bot?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
